@@ -37,7 +37,7 @@ api.onText(/\/help/, function(msg, match) {
     "Повстречавшишься со многими, я вдруг понял, что я искал лишь похожих на тебя, ведь для меня ты была оригиналом, жаль понял я это поздно.", 
 ]   
     //Sending random hug 
-    var randomIndex = Math.floor(Math.random() * quotes.length)
+    //var randomIndex = Math.floor(Math.random() * quotes.length)
     //randomizing the function 
     api.onText(/\/hugme/, function(msg, match) {
     var fromId = msg.from.id;
