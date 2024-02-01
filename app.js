@@ -23,7 +23,6 @@ api.onText(/\/help/, function(msg, match) {
     "Ты заслуживаешь чтобы тебя заковали в цепи из роз, и отослали на остров Цитеры!",
     "The simple lack of her is more to me than others' presence.☺️",
     "You remind me of my favorite season - Autumn, when We were supposed to walk in the park holding hands, but at some point it all went wrong...",
-    "Maybe someday the place where you are from won't be the reason of ending our conversation!",
     "The time I met you, I understand the meaning of  word - Love.",
     "You are the reason why I believe in love",
     "Never gonna give You up, never gonna say goodbye...😄",
