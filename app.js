@@ -35,7 +35,31 @@ api.onText(/\/help/, function(msg, match) {
     "https://youtu.be/LlUgZdtyWdA?t=10",
     "Повстречавшишься со многими, я вдруг понял, что я искал лишь похожих на тебя, ведь для меня ты была оригиналом, жаль понял я это поздно.", 
     "With you, I am home.",
-    "Старайся показать тем, кого любишь, свои худшие стороны. Если они принимают тебя такой, значит, ты не зря рядом с ними. "
+    "Старайся показать тем, кого любишь, свои худшие стороны. Если они принимают тебя такой, значит, ты не зря рядом с ними. ",
+    "'Ещё одной темной ночью, каждый твой вдох. И каждый твой выдох, кричит об одном. Еще одним холодным утром - руки без слов. Кричат об одном - это любовь.' - Scriptonit",
+    "The way your lips curve into a smile makes me crave the taste of your kisses.",
+    "Your gaze is a seductive dance, inviting me into a world where our desires waltz together💜",
+    "I want to be the reason your heart races and your breath catches, a reminder that you are alive with love.",
+    "Our love is a fire that refuses to be tamed, burning brighter with each shared glance and touch.",
+    "You're not just a star in my sky; you're the entire galaxy that pulls me into the depths of passion.",
+    "I crave the intoxicating taste of your love, a potion that leaves me drunk on the ecstasy of our connection",
+    "I'm not here to play games; I'm here to claim the love that's rightfully mine and shower you with all the passion I possess.",
+    "I'll chase away your doubts like shadows in the night, leaving only the undeniable certainty of our love.",
+    "Our love story is written in the stars, and I'm determined to make every chapter more intense and unforgettable than the last."
+    "I don't want a piece of your heart; I want the whole damn thing because anything less would be a compromise I'm not willing to make.",
+    "I'm not here to be a part of your world; I'm here to become your world, where everything else pales in comparison to our connection.",
+    "Consider me the storm that sweeps through your life, dismantling the ordinary and making space for the extraordinary love we share.",
+     "I'm not asking for your love; I'm claiming it as a birthright, an undeniable truth that we're destined to be entwined.",
+     "Your body is a masterpiece, and I find myself getting lost in the intricate details, each curve and contour a canvas of desire.",
+     "The way you move is like a seductive dance, and I can't help but be captivated by the rhythm of your every step!",
+     "Your scent lingers on my skin, driving me wild with anticipation for the next time I get to breathe in the intoxicating essence of you!",
+     "In the quiet moments, I find my thoughts drifting to the way your touch ignites a fire within me, a flame that only grows with every shared embrace!",
+    "Our love is a timeless tale, and every moment spent with you is a chapter I never want to end💜",
+     "Every day with you feels like a page from a fairytale, and I can't wait to discover the magical chapters that lie ahead.",
+     
+
+
+
 ]   
     //Sending random hug 
     //var randomIndex = Math.floor(Math.random() * quotes.length)
