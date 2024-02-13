@@ -30,7 +30,6 @@ api.onText(/\/help/, function(msg, match) {
     "'Long hair, brown skin with the fat ass...'- J.Cole",
     "You have a bad day today? Just remember that you are the reason someone having a good day every day.",
     "I was pretty sure that love it's just chemical reaction when high levels of dopamine and a related hormone, norepinephrine, are released during attraction, but once I saw you it was nothing more than emptiness and calmness",
-    "Я помню чудное мгновенье: \n Передо мной явилась ты,\n Как мимолетное виденье, \nКак гений чистой красоты.",
     "Холодной зимой советую тебе прочитать книгу: 'Филосовские Повести' - Вольтер, где описана та любовь которую  я хотел бы иметь с тобой!",
     "https://youtu.be/LlUgZdtyWdA?t=10",
     "Повстречавшишься со многими, я вдруг понял, что я искал лишь похожих на тебя, ведь для меня ты была оригиналом, жаль понял я это поздно.", 
@@ -64,7 +63,10 @@ api.onText(/\/help/, function(msg, match) {
     "There is ordinary, and then there is you!",
     "You are crazy for always thinking outside the box, but your ideas consistently work!",
     "Luckily, you are not a drug. Because I would be a nasty addict, and would certainly make you pay for rehab.",
-
+    "A year ago I had no idea who you were, now you're my favorite person",
+    "16 billion eyes, yet yours are still the prettiest",
+    "Сколько бы не было между нами расстояния, никто не сможет занять твое место в моем сердце💜",
+    "Ты можешь мне довериться, ты можешь уткнуться мне в плечо и плакать, я всегда поддержу тебя и решу твои проблемы!"
 ]   
     //Sending random hug 
     //var randomIndex = Math.floor(Math.random() * quotes.length)
